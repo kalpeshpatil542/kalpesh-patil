@@ -4,6 +4,10 @@
 
 
 <p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1200&color=0A96FF&center=true&vCenter=true&width=900&lines=Welcome+to+Kalpesh+Patil's+GitHub+Profile;Cybersecurity+Enthusiast;Networking+%7C+Cloud+Security+%7C+Ethical+Hacking;Final-Year+Computer+Engineering+Student" />
+</p>
+
   Cybersecurity Enthusiast 🔐 | Networking 🌐 | Cloud Security ☁️ | Ethical Hacking 🧪
 </p>
 
