@@ -30,29 +30,29 @@
 
 
 
+
 ## 🧰 Tools & Tech Stack
 
 <p align="left">
-  <!-- Kali Linux -->
-  <img src="https://www.kali.org/images/kali-logo.svg" width="45" height="45" alt="Kali Linux" />
 
   <!-- Burp Suite -->
-  <img src="https://raw.githubusercontent.com/ParrotSec/parrotsec.org/master/img/icons/burpsuite.png" width="45" height="45" alt="Burp Suite" />
+  <img src="https://raw.githubusercontent.com/JFLessa/icones-lead/main/burp.png" width="45" height="45" alt="Burp Suite"/>
 
   <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="45" height="45" alt="Wireshark" />
+  <img src="https://raw.githubusercontent.com/JFLessa/icones-lead/main/wireshark.png" width="45" height="45" alt="Wireshark"/>
 
   <!-- Nmap -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nmap_logo.svg" width="45" height="45" alt="Nmap" />
+  <img src="https://raw.githubusercontent.com/JFLessa/icones-lead/main/nmap.png" width="45" height="45" alt="Nmap"/>
 
   <!-- Metasploit -->
-  <img src="https://www.offsec.com/wp-content/uploads/2023/01/Metasploit_Logo.svg" width="45" height="45" alt="Metasploit" />
+  <img src="https://raw.githubusercontent.com/JFLessa/icones-lead/main/metasploit.png" width="45" height="45" alt="Metasploit"/>
 
-  <!-- Cryptography -->
-  <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" width="45" height="45" alt="Cryptography" />
+  <!-- Kali Linux -->
+  <img src="https://raw.githubusercontent.com/JFLessa/icones-lead/main/kali.png" width="45" height="45" alt="Kali Linux"/>
 
   <!-- Linux -->
-  <img src="https://img.icons8.com/color/48/linux.png" width="45" height="45" alt="Linux" />
+  <img src="https://img.icons8.com/color/48/linux.png" width="45" height="45" alt="Linux"/>
+
 </p>
 
 
