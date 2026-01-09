@@ -29,15 +29,18 @@
 
 ## 🧰 Tools & Tech Stack
 
+## 🧰 Tools & Tech Stack
+
 <p align="left">
-  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/?size=48&id=Xw0UdfHqLu73&format=png" alt="Burp Suite"/>
-  <img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark"/>
-  <img src="https://img.icons8.com/color/48/nmap.png" alt="Nmap"/>
-  <img src="https://img.icons8.com/color/48/command.png" alt="Linux CLI"/>
-  <img src="https://img.icons8.com/color/48/lock.png" alt="Cryptography"/>
-  <img src="https://img.icons8.com/color/48/metasploit.png" alt="Metasploit"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux"/>
+  <img src="https://raw.githubusercontent.com/yudai-nkt/burp-suite-icons/main/logo.svg" width="48" height="48" alt="Burp Suite"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="48" height="48" alt="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nmap_logo.svg" width="48" height="48" alt="Nmap"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/metasploit.svg" width="48" height="48" alt="Metasploit"/>
+  <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" width="48" height="48" alt="Cryptography"/>
+  <img src="https://img.icons8.com/color/48/linux.png" width="48" height="48" alt="Linux"/>
 </p>
+
 
 ---
 
