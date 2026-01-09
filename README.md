@@ -65,7 +65,7 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/kalpesh-patil-071483202/
-- 📧 Email: REPLACE_WITH_EMAIL
+- 📧 Email: kalpeshpatil4001@gmail.com
 
 ---
 
