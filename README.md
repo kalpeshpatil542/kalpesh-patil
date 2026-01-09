@@ -1,142 +1,73 @@
-<!-- ███████ ULTRA HACKER MODE ███████ -->
-
-<h1 align="center">
-
-██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗
-██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝
-██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝█████╗  ███████╗
-██╔═══╝ ██║   ██║██╔══██╗██╔══╝  ██╔══██╗██╔══╝  ╚════██║
-██║     ╚██████╔╝██║  ██║███████╗██║  ██║███████╗███████║
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
-
-</h1>
-
-<h3 align="center">🟩 Kalpesh @ CyberOS — Active Session</h3>
-
----
-
-## 🟩 $ whoami
-> kalpesh_patil  
-> cybersecurity_enthusiast | networking | cloud_security  
-
-## 🟩 $ osinfo
-> distro: kali-linux / debian-based  
-> shell: bash  
-> editor: nano / vscode  
-> timezone: IST  
-
-## 🟩 $ mission
-> bridging offensive security ↔ network defense ↔ cloud security  
-
----
-
-## 🟩 installed.packages
-
-└── kali-linux  
-└── burp-suite  
-└── wireshark  
-└── nmap  
-└── metasploit-framework  
-└── cryptography  
-└── linux-cli  
-└── tcpdump  
-└── bash  
-
----
-
-## 🟩 skill_tree
-
-[red_team]     → recon | exploit_surface | web_vulns  
-[blue_team]    → soc | detection | threat_hunting | monitoring  
-[networking]   → tcp/ip | subnetting | firewalls | routing  
-[cloud_sec]    → aws_iam | logging | least_privilege  
-[crypto]       → hashing | encoding | encryption  
-
----
-
-## 🟩 sudo apt install knowledge
-
-> learning_cloud_security  
-> learning_networking  
-> studying_ethical_hacking  
-> practicing_labs  
-> building_projects  
-
----
-
-## 🟩 certs (planned)
-
-[ ] AWS Security Specialty (future)  
-[ ] OSCP (wishlist)  
-[ ] CCNA Security (target)  
-[ ] CEH v12 (target)  
-[ ] Google Cybersecurity (in-progress)  
-
----
-
-## 🟩 ctf_scoreboard
-
-[ ] picoCTF  
-[ ] tryhackme  
-[ ] hackthebox  
-[ ] overthewire  
-
-(status: registering soon...)  
-
----
-
-## 🟩 cloud_security_map
-
-IAM  → least_privilege | authN | authZ  
-Logs → cloudtrail | config | guardduty  
-Net  → vpc | subnets | sg | nacl | routing  
-
----
-
-## 🟩 project_pipeline (roadmap)
-
-[ ] recon-automator.sh  
-[ ] aws-iam-sec-lab  
-[ ] pcap-network-analyzer  
-[ ] crypto-hashing-demo  
-[ ] soc-log-parser  
-[ ] vuln-scan-tool  
-[ ] network-defense-lab  
-
----
-
-## 🟩 github_stats
+<h1 align="center">👋 Hello, I'm Kalpesh Patil</h1>
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=chartreuse-dark"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=chartreuse-dark"/>
+  Final-year Computer Engineering student passionate about cybersecurity, ethical hacking, and digital forensics.
 </p>
 
 ---
 
-## 🟩 socials
-
-$ connect --linkedin  
-> https://www.linkedin.com/in/kalpesh-patil-071483202/  
-
-$ connect --email  
-> REPLACE_WITH_EMAIL  
-
-$ status  
-> remote_friendly / open_to_learning / open_to_internship  
+## 🧠 About Me
+I am currently pursuing my **Bachelor of Engineering in Computer Engineering** and focusing on building a strong foundation in **Cybersecurity, Ethical Hacking, Networking, and Cloud Security**. I enjoy learning new tools and techniques, solving security challenges, and applying practical skills to real-world problems. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🟩 quote
+## 🛠 Skills & Tools
 
-"The quieter you become, the more you can hear."
+**Cybersecurity & Networking:**
+- Vulnerability Assessment
+- Ethical Hacking Fundamentals
+- Network Security
+- Digital Forensics (beginner)
+
+**Tools:**
+- Kali Linux
+- Burp Suite
+- Wireshark
+- Nmap
+- Metasploit Framework
+- Cryptography Tools
+- Linux CLI
 
 ---
 
-## 🟩 exit(0)
+## 📚 Learning & Focus Areas
+- Ethical Hacking & Penetration Testing
+- Network Traffic Analysis
+- Cloud Security Basics (AWS IAM, Logging)
+- SOC Concepts & Log Monitoring
+- Secure Coding Practices
 
-session terminated  
-logs saved to /var/log/hacker_journey.log  
-continuing skill_upgrade...  
+---
 
-🟩 system: hacking_reality  
+## 💻 Projects & Labs (Roadmap)
+I’m actively working on building practical projects to showcase skills and learning:
+
+- Reconnaissance & Automation Scripts  
+- Network Packet Analyzer  
+- AWS IAM Security Lab  
+- Cryptographic Demos  
+- SIEM Log Parsing Utility  
+- Vulnerability Scanner Tool
+
+*(Projects will be added soon as I complete them)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/kalpesh-patil-071483202/  
+**Email:** kalpeshpatil4001@gmail.com
+
+---
+
+> “Continuous learning and practical application are the keys to mastering cybersecurity.”
+
