@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hello, I'm Kalpesh Patil</h1>
 
 <p align="center">
+  <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=05F72D&center=true&vCenter=true&width=700&lines=Welcome+to+Kalpesh+Patil's+Profile!;Cybersecurity+Student+%7C+Networking+%7C+Cloud+Security;Ethical+Hacking+Journey+Loading..."/>
+</h1>
+
   Final-year Computer Engineering student passionate about cybersecurity, ethical hacking, and digital forensics.
 </p>
 
@@ -65,7 +69,7 @@ I’m actively working on building practical projects to showcase skills and lea
 ## 📫 Connect With Me
 
 **LinkedIn:** https://www.linkedin.com/in/kalpesh-patil-071483202/  
-**Email:** REPLACE_WITH_EMAIL
+**Email:** kalpeshpatil4001@gmail.com
 
 ---
 
