@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Welcome+to+Kalpesh+Patil's+GitHub+Profile!;Cybersecurity+%7C+Networking+%7C+Cloud+Security+%7C+Ethical+Hacking;Keep+Learning+Keep+Building+🔐" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=05F72D&center=true&vCenter=true&width=700&lines=Welcome+to+Kalpesh+Patil's+Profile!;Cybersecurity+Student+%7C+Networking+%7C+Cloud+Security;Ethical+Hacking+Journey+Loading..."/>
+</h1>
 
 
 <p align="center">
