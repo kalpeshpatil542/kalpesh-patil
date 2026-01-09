@@ -1,82 +1,72 @@
-<h1 align="center">👋 Hey, I'm <b>Kalpesh Patil</b></h1>
+<h1 align="center">👋 Hello, I'm Kalpesh Patil</h1>
 
 <p align="center">
-  Final-year Computer Engineering Student • Cybersecurity Enthusiast • Networking & Cloud Security Learner
+  Final-year Computer Engineering student passionate about cybersecurity, ethical hacking, and digital forensics.
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm currently pursuing my **Bachelor of Engineering in Computer Engineering**, focusing on building skills in:
-
-- Cybersecurity & Ethical Hacking  
-- Network Security & Traffic Analysis  
-- Cloud Security (AWS IAM, Logging & Monitoring)  
-- Digital Forensics (Beginner)  
-
-I enjoy understanding how attacks work, how networks behave, and how to defend systems against real-world vulnerabilities.  
-Actively learning through labs, tools, courses, and hands-on exercises.
+## 🧠 About Me
+I am currently pursuing my **Bachelor of Engineering in Computer Engineering** and focusing on building a strong foundation in **Cybersecurity, Ethical Hacking, Networking, and Cloud Security**. I enjoy learning new tools and techniques, solving security challenges, and applying practical skills to real-world problems.
 
 ---
 
-## 🛠 Tools & Tech Stack
+## 🛠 Skills & Tools
 
-**Cybersecurity & Networking**
-- Ethical Hacking Fundamentals
+**Cybersecurity & Networking:**
 - Vulnerability Assessment
+- Ethical Hacking Fundamentals
 - Network Security
-- Digital Forensics (Basic)
+- Digital Forensics (Beginner)
 
-**Tools**
-- Kali Linux  
-- Burp Suite  
-- Wireshark  
-- Nmap  
-- Metasploit Framework  
-- Cryptography Tools  
-- Linux CLI  
-
-**Operating Systems**
-- Linux (CLI & System Tools)
-- Windows
+**Tools:**
+- Kali Linux
+- Burp Suite
+- Wireshark
+- Nmap
+- Metasploit Framework
+- Cryptography Tools
+- Linux CLI
 
 ---
 
-## 📜 Certifications
-
-- Google Cybersecurity  
-- Cisco Introduction to Cybersecurity  
+## 📚 Learning & Focus Areas
+- Ethical Hacking & Penetration Testing
+- Network Traffic Analysis
+- Cloud Security Basics (AWS IAM, Logging)
+- SOC Concepts & Log Monitoring
+- Secure Coding Practices
 
 ---
 
-## 🚀 Projects (Coming Soon)
+## 💻 Projects & Labs (Roadmap)
+I’m actively working on building practical projects to showcase skills and learning:
 
-Currently working on cybersecurity labs & practical exercises — repositories will be published soon.
+- Reconnaissance & Automation Scripts  
+- Network Packet Analyzer  
+- AWS IAM Security Lab  
+- Cryptographic Demos  
+- SIEM Log Parsing Utility  
+- Vulnerability Scanner Tool
 
-Areas of interest include:
-- Recon & Enumeration
-- Packet Analysis
-- AWS Cloud IAM Security
-- Cryptographic Implementation
-- SIEM / SOC Fundamentals
+*(Projects will be added soon as I complete them)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=tokyonight"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=tokyonight"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 **LinkedIn:** https://www.linkedin.com/in/kalpesh-patil-071483202/  
-**Email:** REPLACE_WITH_EMAIL  
+**Email:** REPLACE_WITH_EMAIL
 
 ---
 
-<p align="center"><i>"Continuous learning is the foundation of cybersecurity"</i></p>
+> “Continuous learning and practical application are the keys to mastering cybersecurity.”
