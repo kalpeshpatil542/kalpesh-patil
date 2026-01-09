@@ -1,87 +1,82 @@
-<h1 align="center">👋 Welcome to <b>Kalpesh Patil</b>'s GitHub Profile!</h1>
+<h1 align="center">👋 Hey, I'm <b>Kalpesh Patil</b></h1>
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1200&color=0A96FF&center=true&vCenter=true&width=900&lines=Welcome+to+Kalpesh+Patil's+GitHub+Profile;Cybersecurity+Enthusiast;Networking+%7C+Cloud+Security+%7C+Ethical+Hacking;Final-Year+Computer+Engineering+Student" />
-</p>
-
-  Cybersecurity Enthusiast 🔐 | Networking 🌐 | Cloud Security ☁️ | Ethical Hacking 🧪
+  Final-year Computer Engineering Student • Cybersecurity Enthusiast • Networking & Cloud Security Learner
 </p>
 
 ---
 
-## 👀 About Me
-- 🎓 Final-Year **Computer Engineering** student
-- 🔐 Passionate about **Cybersecurity, Ethical Hacking, and Digital Forensics**
-- 🌍 Interested in how attacks happen and how to defend against them
-- 🧪 I enjoy learning tools, labs, and real-world security concepts
-- 🚀 Building a foundation in **Defensive & Offensive Security**
-- 📈 Always exploring cybersecurity + networking + cloud intersection
+## 👨‍💻 About Me
+
+I'm currently pursuing my **Bachelor of Engineering in Computer Engineering**, focusing on building skills in:
+
+- Cybersecurity & Ethical Hacking  
+- Network Security & Traffic Analysis  
+- Cloud Security (AWS IAM, Logging & Monitoring)  
+- Digital Forensics (Beginner)  
+
+I enjoy understanding how attacks work, how networks behave, and how to defend systems against real-world vulnerabilities.  
+Actively learning through labs, tools, courses, and hands-on exercises.
 
 ---
 
-## 🛠 Skills & Tools
-**Security & Networking**
-- Vulnerability Assessment
+## 🛠 Tools & Tech Stack
+
+**Cybersecurity & Networking**
 - Ethical Hacking Fundamentals
+- Vulnerability Assessment
 - Network Security
-- Digital Forensics (beginner)
+- Digital Forensics (Basic)
 
+**Tools**
+- Kali Linux  
+- Burp Suite  
+- Wireshark  
+- Nmap  
+- Metasploit Framework  
+- Cryptography Tools  
+- Linux CLI  
 
-
-
-
-
-
-## 🧰 Tools & Tech Stack
-
-- Kali Linux
-- Burp Suite
-- Wireshark
-- Nmap
-- Metasploit Framework
-- Cryptography Tools
-- Linux CLI
-- Windows OS
-
-
-
+**Operating Systems**
+- Linux (CLI & System Tools)
+- Windows
 
 ---
 
-## 📚 Currently Learning
-- Ethical Hacking & Pen Testing
-- Network Traffic Analysis
-- Cloud Security (AWS IAM, Logging)
-- SOC Concepts & Monitoring
-- Security Fundamentals
+## 📜 Certifications
+
+- Google Cybersecurity  
+- Cisco Introduction to Cybersecurity  
 
 ---
 
-## 🧪 Projects & Labs (Roadmap)
-- Recon Automation Scripts  
-- Network Packet Analyzer  
-- AWS IAM Security Lab  
-- Cryptographic Demos  
-- SIEM Log Parsing  
-- Vulnerability Scanner Tool  
+## 🚀 Projects (Coming Soon)
 
-*(will be updated soon)*
+Currently working on cybersecurity labs & practical exercises — repositories will be published soon.
+
+Areas of interest include:
+- Recon & Enumeration
+- Packet Analysis
+- AWS Cloud IAM Security
+- Cryptographic Implementation
+- SIEM / SOC Fundamentals
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=tokyonight"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=tokyonight"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/kalpesh-patil-071483202/
-- 📧 Email: kalpeshpatil4001@gmail.com
+## 🌐 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/kalpesh-patil-071483202/  
+**Email:** REPLACE_WITH_EMAIL  
 
 ---
 
-<p align="center"><i>"Continuous learning is the backbone of cybersecurity."</i></p>
+<p align="center"><i>"Continuous learning is the foundation of cybersecurity"</i></p>
