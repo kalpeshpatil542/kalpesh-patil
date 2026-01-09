@@ -27,14 +27,17 @@
 - Network Security
 - Digital Forensics (beginner)
 
-**Tools**
-- Kali Linux
-- Burp Suite
-- Wireshark
-- Nmap
-- Metasploit Framework
-- Cryptography Tools
-- Linux CLI
+## 🧰 Tools & Tech Stack
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux"/>
+  <img src="https://img.icons8.com/?size=48&id=Xw0UdfHqLu73&format=png" alt="Burp Suite"/>
+  <img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark"/>
+  <img src="https://img.icons8.com/color/48/nmap.png" alt="Nmap"/>
+  <img src="https://img.icons8.com/color/48/command.png" alt="Linux CLI"/>
+  <img src="https://img.icons8.com/color/48/lock.png" alt="Cryptography"/>
+  <img src="https://img.icons8.com/color/48/metasploit.png" alt="Metasploit"/>
+</p>
 
 ---
 
