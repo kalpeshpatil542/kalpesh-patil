@@ -1,40 +1,88 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity%20%26%20Networking-Hacker%20Mode-green?style=flat&logo=linux&logoColor=white" />
-</p>
+<h1 align="center">🟩 Terminal Session: Kalpesh@CyberOS</h1>
 
-<h1 align="center">🔐 Hey, I'm Kalpesh Patil</h1>
+$ whoami  
+> kalpesh_patil  
+
+$ role  
+> cybersecurity_student | networking | cloud_security  
+
+$ location  
+> India (Remote-Friendly)  
+
+$ mission  
+> explore offensive security ↔ cloud ↔ network defense  
+
+---
+
+## 🟩 system.status  
+
+[✓] learning_cloud_security  
+[✓] learning_networking  
+[✓] studying_ethical_hacking  
+[ ] CTF_participation (incoming...)  
+[ ] real_world_project (deploying_soon...)  
+
+---
+
+## 🟩 installed.packages  
+
+└── kali-linux  
+└── burp-suite  
+└── wireshark  
+└── nmap  
+└── metasploit-framework  
+└── cryptography  
+└── linux-cli  
+
+---
+
+## 🟩 knowledge-base  
+
+network_security → tcp/ip | subnetting | firewalls  
+cloud_security   → aws_iam | monitoring | logging  
+blue_team        → soc | detection | threat_hunting  
+red_team         → recon | web_attack_surface  
+
+---
+
+## 🟩 projects (roadmap)  
+
+[ ] recon-automator.sh  
+[ ] aws-iam-sec-lab  
+[ ] pcap-network-analyzer  
+[ ] crypto-hashing-demo  
+[ ] soc-log-parser  
+[ ] vuln-scan-tool  
+
+---
+
+## 🟩 github.stats  
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Networking | Cloud Security</b><br>
-  Exploring the intersection of <b>Offensive Security, Cloud & Network Defense</b>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=chartreuse-dark"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
 
-<h2>🟩 | Currently Exploring</h2>
+## 🟩 social.links  
 
+$ connect --linkedin  
+> https://www.linkedin.com/in/kalpesh-patil-071483202/  
 
----
-
-<h2>💾 | GitHub Stats</h2>
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=chartreuse-dark"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=chartreuse-dark"/>
-</p>
+$ connect --email  
+> REPLACE_WITH_EMAIL  
 
 ---
 
-<h2>⚡ | Connect With Me</h2>
+## 🟩 quote  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalpesh-patil-071483202/">
-    <img src="https://img.shields.io/badge/LinkedIn-Open%20Connection-blue?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kalpeshpatil4001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?logo=gmail"/>
-  </a>
-</p>
+"The quieter you become, the more you can hear."  
 
 ---
 
-<p align="center"><i>“The quieter you are, the more you can hear.”</i></p>
+## 🟩 exit(0)  
+
+session terminated...  
+returning to real world...  
+continue hacking 🟩
