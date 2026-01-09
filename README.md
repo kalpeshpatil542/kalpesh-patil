@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kalpesh-patil-071483202/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:REPLACE_WITH_EMAIL">
+  <a href="mailto:kalpeshpatil4001@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
