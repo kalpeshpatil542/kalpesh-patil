@@ -27,7 +27,7 @@
 - Network Security
 - Digital Forensics (beginner)
 
-## 🧰 Tools & Tech Stack
+
 
 ## 🧰 Tools & Tech Stack
 
