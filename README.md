@@ -1,30 +1,36 @@
-<h1 align="center">🟩 Terminal Session: Kalpesh@CyberOS</h1>
+<!-- ███████ ULTRA HACKER MODE ███████ -->
 
-$ whoami  
+<h1 align="center">
+
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝
+██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝█████╗  ███████╗
+██╔═══╝ ██║   ██║██╔══██╗██╔══╝  ██╔══██╗██╔══╝  ╚════██║
+██║     ╚██████╔╝██║  ██║███████╗██║  ██║███████╗███████║
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+
+</h1>
+
+<h3 align="center">🟩 Kalpesh @ CyberOS — Active Session</h3>
+
+---
+
+## 🟩 $ whoami
 > kalpesh_patil  
+> cybersecurity_enthusiast | networking | cloud_security  
 
-$ role  
-> cybersecurity_student | networking | cloud_security  
+## 🟩 $ osinfo
+> distro: kali-linux / debian-based  
+> shell: bash  
+> editor: nano / vscode  
+> timezone: IST  
 
-$ location  
-> India (Remote-Friendly)  
-
-$ mission  
-> explore offensive security ↔ cloud ↔ network defense  
-
----
-
-## 🟩 system.status  
-
-[✓] learning_cloud_security  
-[✓] learning_networking  
-[✓] studying_ethical_hacking  
-[ ] CTF_participation (incoming...)  
-[ ] real_world_project (deploying_soon...)  
+## 🟩 $ mission
+> bridging offensive security ↔ network defense ↔ cloud security  
 
 ---
 
-## 🟩 installed.packages  
+## 🟩 installed.packages
 
 └── kali-linux  
 └── burp-suite  
@@ -33,19 +39,61 @@ $ mission
 └── metasploit-framework  
 └── cryptography  
 └── linux-cli  
+└── tcpdump  
+└── bash  
 
 ---
 
-## 🟩 knowledge-base  
+## 🟩 skill_tree
 
-network_security → tcp/ip | subnetting | firewalls  
-cloud_security   → aws_iam | monitoring | logging  
-blue_team        → soc | detection | threat_hunting  
-red_team         → recon | web_attack_surface  
+[red_team]     → recon | exploit_surface | web_vulns  
+[blue_team]    → soc | detection | threat_hunting | monitoring  
+[networking]   → tcp/ip | subnetting | firewalls | routing  
+[cloud_sec]    → aws_iam | logging | least_privilege  
+[crypto]       → hashing | encoding | encryption  
 
 ---
 
-## 🟩 projects (roadmap)  
+## 🟩 sudo apt install knowledge
+
+> learning_cloud_security  
+> learning_networking  
+> studying_ethical_hacking  
+> practicing_labs  
+> building_projects  
+
+---
+
+## 🟩 certs (planned)
+
+[ ] AWS Security Specialty (future)  
+[ ] OSCP (wishlist)  
+[ ] CCNA Security (target)  
+[ ] CEH v12 (target)  
+[ ] Google Cybersecurity (in-progress)  
+
+---
+
+## 🟩 ctf_scoreboard
+
+[ ] picoCTF  
+[ ] tryhackme  
+[ ] hackthebox  
+[ ] overthewire  
+
+(status: registering soon...)  
+
+---
+
+## 🟩 cloud_security_map
+
+IAM  → least_privilege | authN | authZ  
+Logs → cloudtrail | config | guardduty  
+Net  → vpc | subnets | sg | nacl | routing  
+
+---
+
+## 🟩 project_pipeline (roadmap)
 
 [ ] recon-automator.sh  
 [ ] aws-iam-sec-lab  
@@ -53,19 +101,20 @@ red_team         → recon | web_attack_surface
 [ ] crypto-hashing-demo  
 [ ] soc-log-parser  
 [ ] vuln-scan-tool  
+[ ] network-defense-lab  
 
 ---
 
-## 🟩 github.stats  
+## 🟩 github_stats
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=chartreuse-dark"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=chartreuse-dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kalpeshpatil542&show_icons=true&theme=chartreuse-dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshpatil542&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
 
-## 🟩 social.links  
+## 🟩 socials
 
 $ connect --linkedin  
 > https://www.linkedin.com/in/kalpesh-patil-071483202/  
@@ -73,16 +122,21 @@ $ connect --linkedin
 $ connect --email  
 > REPLACE_WITH_EMAIL  
 
----
-
-## 🟩 quote  
-
-"The quieter you become, the more you can hear."  
+$ status  
+> remote_friendly / open_to_learning / open_to_internship  
 
 ---
 
-## 🟩 exit(0)  
+## 🟩 quote
 
-session terminated...  
-returning to real world...  
-continue hacking 🟩
+"The quieter you become, the more you can hear."
+
+---
+
+## 🟩 exit(0)
+
+session terminated  
+logs saved to /var/log/hacker_journey.log  
+continuing skill_upgrade...  
+
+🟩 system: hacking_reality  
